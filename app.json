@@ -1,14 +1,15 @@
 {
   "expo": {
-    "name": "uber-clone",
-    "slug": "uber-clone",
+    "name": "women-safety",
+    "slug": "women-safety",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/BAS.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+
     },
     "updates": {
       "fallbackToCacheTimeout": 0
